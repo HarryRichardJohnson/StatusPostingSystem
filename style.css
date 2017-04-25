@@ -1,0 +1,27 @@
+html{
+  background-color: grey;
+  margin-right: 10%;
+  font-family: "Georgia", serif;
+}
+
+body {
+  width:80%;
+  padding: 5%;
+  margin-left: 10%;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: #2971e5;
+  border-top: 0;
+  border-bottom: 0;
+  border-left: 4px;
+  border-right: 4px;
+  border-color: black;
+  border-style: solid;
+  color: white;
+}
+h1 {
+    text-decoration: underline;
+}
+a {
+  color: white;
+}
